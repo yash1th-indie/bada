@@ -1,2 +1,1 @@
-def great():
-    print("hello world")
+print("hello world my boi")
